@@ -11,8 +11,6 @@ A simple chatbot using Google Gemini and Node.js.
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -69,30 +67,6 @@ The project requires the following environment variable:
 
 2. **Interact with the chatbot**: Type your messages in the terminal. To exit, type `exit`.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a new branch**:
-    ```sh
-    git checkout -b feature-name
-    ```
-3. **Make your changes**
-4. **Commit your changes**:
-    ```sh
-    git commit -m "Add some feature"
-    ```
-5. **Push to the branch**:
-    ```sh
-    git push origin feature-name
-    ```
-6. **Create a pull request**
-
 ## Credits
 
 Special thanks to [Devarshi Shimpi](https://blog.devarshi.dev/how-to-create-ai-chatbot-google-gemini-using-nodejs) for the guide on creating an AI chatbot using Google Gemini and Node.js.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
